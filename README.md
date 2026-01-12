@@ -27,3 +27,5 @@ Lưu ý quan trọng:
 3.  Nén file: Có thể thêm options `COMPRESS=LZW` hoặc `COMPRESS=DEFLATE` để giảm kích thước file
 
 <img width="1444" height="839" alt="image" src="https://github.com/user-attachments/assets/2e91882a-e252-4122-aa38-37a734d9e1df" />
+<img width="1858" height="1080" alt="image" src="https://github.com/user-attachments/assets/bacf4715-d524-4445-95b6-601dd06bd539" />
+
